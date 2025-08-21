@@ -25,7 +25,7 @@ export class NorthwindSwaggerService {
     }
     const options = {
       headers: {
-        Authorization: 'Bearer <auth_value>',
+        Authorization: 'Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjcxZTIwNGVmLWVkMGEtNGYyZi1hYTdlLThhOTI2NTQzMmY2MyIsInN1YiI6InRlc3QiLCJlbWFpbCI6InRlc3QiLCJqdGkiOiI4M2E0MGI2MC1lZmVkLTQ5ZGEtYWYxYi1mNTQ4MTUxZjc4ODgiLCJuYmYiOjE3NTU3ODgzMDIsImV4cCI6MTc1NTc4ODYwMiwiaWF0IjoxNzU1Nzg4MzAyLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MjQ0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjcyNDQvIn0.lCyxBtprBOz35xQz0lGJngLP8lP8Q2sJYLujE16UBe5c4JP4M8m_QgQ6PWsxtq29FmNcfSmIPKyqEq-x5X7PfQ',
       },
     };
     const body = data;
